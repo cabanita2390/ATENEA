@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* punto4 */
+
+.azul   {
+    text-align: center;
+    margin: 10px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+.rojo {
+    text-align: center;
+    margin: 10px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+.separador {
+    margin: 30px;
+    text-align: center;
+}
+
+/* punto5 */
+.punto-5-0 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.punto-5 {
+    margin: 8px;
+    text-align: left;
+}
+
+.punto5-1 {
+    text-decoration: underline;
+    color: green;
+}
+.punto5-2 {
+    color: red;
+}
+.punto5-3 {
+    text-decoration: overline underline;
+}
+.punto5-4 {
+    font-size: 40px;
+}
+.punto5-5 {
+    font-size: 18px;
+    color: blue;
+    font-weight: bold;
+}
+.punto5-6 {
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+/* punto6 */
+
+.punto6 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.punto6 h2 {
+    margin: 8px 0;
+}
+.punto6 a {
+    margin: 8px 0;
+}
+.punto6-1 {
+    color: yellow;
+}
+.punto6-2 {
+    color: blueviolet;
+}
+.punto6 a:hover {
+    color: green;
+    font-weight: bold;
+}
+
+
+/* punto 7 */
+
+.punto-7 {
+    display: flex;
+    justify-content: center;
+}
+
+.barra-navegacion {
+    width: 80%;
+    background-color: pink;
+    display: flex;
+  }
+  
+  /* Estilos para los enlaces en la barra de navegación */
+  .enlace {
+    margin: 4px;
+    padding: 10px 20px;
+    text-align: center;
+}
+.barra-navegacion a {
+    text-decoration: none;
+    color: white;
+}
+.enlace:hover {
+    background-color: blue;
+}
+
+/* punto 8 */
+.punto-8 {
+    display: flex;
+    justify-content: center;
+}
+table {
+    background-color: yellow;
+    border: 2px dotted gray;
+    width: 70%;
+  }
+  th {
+    color: red;
+    font-style: italic;
+  }
+
+table td {
+    border: 2px dotted gray
+  }
