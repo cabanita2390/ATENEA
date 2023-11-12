@@ -47,13 +47,14 @@ svg {
     background: none;
 }
 
+
 .logo-header {
-    fill: #6E07F3;
+    fill: red;
 }
 .logo-footer {
     background: none;
     background-color: black;
-    fill: gray;
+    fill: green;
 }
 
 .abrir-menu, .cerrar-menu {
